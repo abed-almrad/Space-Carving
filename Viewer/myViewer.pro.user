@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 6.0.2, 2022-03-24T14:19:33. -->
+<!-- Written by QtCreator 6.0.2, 2022-03-28T14:07:21. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -240,7 +240,7 @@
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/abed/Documents/ETS_Files/Winter_2022/Computer_Vision/Project/Space_Carving_Project/Space_Carving/Viewer/myViewer.pro</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/abed/Documents/ETS_Files/Winter_2022/Computer_Vision/Project/Space_Carving_Project/Space_Carving/Viewer/myViewer.pro</value>
-    <value type="QString" key="RunConfiguration.Arguments">visual_hull_result</value>
+    <value type="QString" key="RunConfiguration.Arguments">bkgrnd_and_color_visual_hull_result</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

@@ -9,7 +9,7 @@ import cv2
 def get_mask(file):
     #Setting the path
     data_dir = os.path.expanduser('~')
-    data_dir = data_dir + "/Downloads/DataSets/beethoven_data/silhouettes/"
+    data_dir = data_dir + "/Downloads/DataSets/bird_data/silhouettes/"
     silhouette_file = data_dir + file.split('.')[0] + ".pgm"
     img = cv2.imread(silhouette_file)
     return img

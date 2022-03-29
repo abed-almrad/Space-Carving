@@ -8,7 +8,7 @@ import numpy as np
 def projectionMatrix(file):
     # Setting the path
     data_dir = os.path.expanduser('~')
-    data_dir = data_dir + "/Downloads/DataSets/beethoven_data/calib/"
+    data_dir = data_dir + "/Downloads/DataSets/bird_data/calib/"
     
     projection_file_name = data_dir + file.split('.')[0] + ".txt"
     proj_file = open(projection_file_name, "r+")
