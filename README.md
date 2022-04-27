@@ -7,7 +7,7 @@ Implementation of the space carving algorithm to create 3D shapes from a collect
 
 The [Multiview Datasets](https://vision.in.tum.de/data/datasets/3dreconstruction) provided by Technical University of Munich are used for this project.
 
-**P.S.** Before implementing the algorithm, make sure to download the datasets and place them in a folder called "DataSets" in your Downloads directory.
+**P.S.** Before implementing the algorithms, make sure to download the datasets and place them in a folder called "DataSets" in your Downloads directory.
 
 ## Algorithms
 
