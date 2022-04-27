@@ -19,4 +19,4 @@ Only the name of the dataset object needs to be specified in the algorithm's cod
 
 Any IDE that is able to interpret .pro files, can be used to run the viewer and visualize the algorithms resulting 3D meshes.
 
-At the end of each algorithm version, the resulting mesh is stored as a .txt file, the name of this generated file needs to be specified in Qt Creator's execution parameters before visualizing the results of this aglorithm.
+At the end of each algorithm version, the resulting mesh is stored as a .txt file and the name of this generated file needs to be specified in Qt Creator's execution parameters before visualizing the results of this aglorithm.
