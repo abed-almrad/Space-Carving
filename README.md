@@ -16,3 +16,4 @@ Six different versions of the space carving algorithm were developped. Each vers
 ## Visualizer
 
 Any IDE that is able to interpret .pro files, can be used to run the viewer and visualize the algorithms resulting 3D meshes.
+At the end of each algorithm version, the resulting mesh is stored as a .txt file, the name of this generated file needs to be specified in Qt Creator's execution parameters before visualizing the results of this aglorithm.
